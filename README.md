@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mini2630
 - 👀 I’m interested in a lot of differnt things in life, 
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Test Automation
 - 📫 How to reach me 0670117324, minenhledlamini26@gmail.com
 
 <!---
